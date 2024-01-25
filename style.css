@@ -1,0 +1,32 @@
+body{
+	background-color: yellow;
+	font-family: monospace;
+}
+#h1-title{
+	background-color:orange;
+	font-size: 50px;
+}
+.images{
+	background-color:white;
+}
+#Defination{
+	font-size: 20px;
+}
+#LabelQ{
+	font-size: 25px;
+}
+#QL{
+	background-color: white;
+	font-size: 15px;
+}
+#Sub{
+	background-color: green;
+	font-size: 15px;
+	color: darkgreen;
+	border: 0;
+	border-radius: 20px;
+}
+#p{
+	background-color: yellow;
+	font-size: 20px;
+}
